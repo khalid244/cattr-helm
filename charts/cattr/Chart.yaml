@@ -1,0 +1,15 @@
+apiVersion: v2
+name: cattr
+description: Cattr is an open-source time-tracking solution for teams
+type: application
+version: 0.1.0
+appVersion: "latest"
+keywords:
+  - cattr
+  - time-tracking
+  - productivity
+home: https://cattr.app
+sources:
+  - https://github.com/cattr-app/server-application
+maintainers:
+  - name: khalid
